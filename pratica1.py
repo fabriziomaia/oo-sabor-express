@@ -14,8 +14,8 @@ musica2.cantor = 'GA'
 musica2.ano_lancamento = 2025
 
 musica3 = Musica()
-musica3.nome = 'BAD'
-musica3.cantor = 'xxxtentácion'
+musica3.nome = 'BAD!'
+musica3.cantor = 'XXXTentacion'
 musica3.ano_lancamento = 2018
 
 
